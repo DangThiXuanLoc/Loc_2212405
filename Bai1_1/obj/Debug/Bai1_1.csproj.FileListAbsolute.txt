@@ -1,0 +1,10 @@
+C:\Users\PC602\source\repos\2212405_WindowsForm\Bai1_1\bin\Debug\Bai1_1.exe.config
+C:\Users\PC602\source\repos\2212405_WindowsForm\Bai1_1\bin\Debug\Bai1_1.exe
+C:\Users\PC602\source\repos\2212405_WindowsForm\Bai1_1\bin\Debug\Bai1_1.pdb
+C:\Users\PC602\source\repos\2212405_WindowsForm\Bai1_1\obj\Debug\Bai1_1.csproj.AssemblyReference.cache
+C:\Users\PC602\source\repos\2212405_WindowsForm\Bai1_1\obj\Debug\Bai1_1.MainForm.resources
+C:\Users\PC602\source\repos\2212405_WindowsForm\Bai1_1\obj\Debug\Bai1_1.Properties.Resources.resources
+C:\Users\PC602\source\repos\2212405_WindowsForm\Bai1_1\obj\Debug\Bai1_1.csproj.GenerateResource.cache
+C:\Users\PC602\source\repos\2212405_WindowsForm\Bai1_1\obj\Debug\Bai1_1.csproj.CoreCompileInputs.cache
+C:\Users\PC602\source\repos\2212405_WindowsForm\Bai1_1\obj\Debug\Bai1_1.exe
+C:\Users\PC602\source\repos\2212405_WindowsForm\Bai1_1\obj\Debug\Bai1_1.pdb
